@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f2f5;
+}
+.left-text{
+    padding:0 5%;
+}
+.left-text h1{
+    color: #1877f2;
+    font-size: 340%;
+    padding-top: 50%;
+}
+.left-text h2{
+    color: #1c1e21;
+    font-size: 160%;
+}
+.right-from{
+    height: auto;
+    width: 20%;
+    background-color: #fff;
+    margin:0 5%;
+    margin-top: 10%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.right-paddin{
+    padding-top: 4%;
+}
+.right-padd{
+    padding-top: 2px;
+}
+#exampleInputEmail1{
+    height: 50px;
+}
+#exampleInputPassword1{
+    height: 50px;
+}
+.from-hei{
+    width: 100%;
+    height: 50px;
+}
+.right-from p{
+    color: #1877f2;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    cursor: pointer;
+}
+.btn-success{
+    margin-left: 30%;
+    color: #fff;
+    background-color: #42b72a;
+    padding: 12px 10px;
+    font-size: 110%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border: #42b72a;
+}
+.btn-success:hover{
+    background-color: #3fa72a;
+}
+.from-foot{
+    float: right;
+    padding-right: 180px;
+    padding-top: 20px;
+}
+span{
+    color: black;
+    cursor: pointer;
+}
+.footer{
+    clear: both;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    margin-top: 200px;
+}
+.language{
+    color: #998d9f;
+    font-size: 13px;
+    padding-left: 30px;
+    padding-top:20px;
+}
+.language span{
+    color: #998d9f;
+    padding: 0 3px;
+}
+.language2{
+    color: #998d9f;
+    font-size: 13px;
+    padding-left: 30px;
+    padding-top:none;
+}
+.language2 span{
+    color: #998d9f;
+    padding: 0 3px;
+}
+small{
+    color: #998d9f; 
+    font-size: 13px;
+    padding-left: 30px;
+}
